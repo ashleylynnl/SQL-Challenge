@@ -2,9 +2,9 @@
 
 ## UTSA Data Analytics Bootcamp 2021
 
-## Employee Database: A Mystery in Two Parts
-
 This repository contains the following scenario:
+
+## Employee Database: A Mystery in Two Parts
 
 In this repository, the major task is a research project on employees of a corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
 
@@ -30,11 +30,11 @@ Inspect the CSVs and sketch out an ERD of the tables. We use the <a href="https:
 
 * Import each CSV file into the corresponding SQL table. Note to be sure to import the data in the same order that the tables were created and account for the headers when importing to avoid errors. 
 
-<h4 style="color:#F09789">Data Anaylsis</h4>
+<h5 style="color:#F09789">Data Anaylsis</h5>
 
 1. List the followng details of each employee: employee number, last name, first name, sex and salary.
 
-insert Query1 image
+![Query1](EmployeeSQL/ERD)
 
 2. List first name, last name, and hire date for employees who were hired in 1986.
 
