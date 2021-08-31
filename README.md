@@ -34,7 +34,7 @@ Inspect the CSVs and sketch out an ERD of the tables. We use the <a href="https:
 
 1. List the followng details of each employee: employee number, last name, first name, sex and salary.
 
-![Query1](EmployeeSQL/ERD)
+![Query1](SQL-Challenge/EmployeeSQL/ERD)
 
 2. List first name, last name, and hire date for employees who were hired in 1986.
 
