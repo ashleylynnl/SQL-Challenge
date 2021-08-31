@@ -17,4 +17,4 @@ We will design the tables to hold data in the CSVs, import the CSVs into a SQL d
 
 Inspect the CSVs and sketch out an ERD of the tables. We use the <a href="https://app.quickdatabasediagrams.com/#/" target="_blank" style="color:#6990A4">Quick Database Diagrams</a>.
 
-(../EmployeeSQL/ERD.png)
+(SQL-Challenge/EmployeeSQL/ERD)
