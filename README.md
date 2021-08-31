@@ -22,15 +22,15 @@ Inspect the CSVs and sketch out an ERD of the tables. We use the <a href="https:
 
 <h4 style="color:#F09789">Data Engineering</h4>
 
-*Create a table schema for each of the six CSV files.
+* Create a table schema for each of the six CSV files.
 
-    *For the primary keys check to see if the column is unique, otherwise create a composite key. 
+    * For the primary keys check to see if the column is unique, otherwise create a composite key. 
 
     * Create tables in the correct order to handle foreign keys.
 
 * Import each CSV file into the corresponding SQL table. Note to be sure to import the data in the same order that the tables were created and account for the headers when importing to avoid errors. 
 
-<h5 style="color:#F09789">Data Anaylsis</h5>
+<h4 style="color:#F09789">Data Anaylsis</h4>
 
 1. List the followng details of each employee: employee number, last name, first name, sex and salary.
 
