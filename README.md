@@ -18,7 +18,7 @@ We will design the tables to hold data in the CSVs, import the CSVs into a SQL d
 
 Inspect the CSVs and sketch out an ERD of the tables. We use the <a href="https://app.quickdatabasediagrams.com/#/" target="_blank" style="color:#6990A4">Quick Database Diagrams</a>.
 
-(SQL-Challenge/EmployeeSQL/ERD) insert ERD image here
+![ERD](EmployeeSQL/ERD.png)
 
 <h4 style="color:#F09789">Data Engineering</h4>
 
@@ -34,35 +34,35 @@ Inspect the CSVs and sketch out an ERD of the tables. We use the <a href="https:
 
 1. List the followng details of each employee: employee number, last name, first name, sex and salary.
 
-![Query1](EmployeeSQL/ERD.png)
+![Query1](EmployeeSQL/Query1.png)
 
 2. List first name, last name, and hire date for employees who were hired in 1986.
 
-insery Query2 image
+![Query2](EmployeeSQL/Query2.png)
 
 3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
 
-insert Query3 image
+![Query3](EmployeeSQL/Query3.png)
 
 4. List the department of each employee with the following information: employee number, last name, first name, and department name.
  
- insert Query4 image
+ ![Query4](EmployeeSQL/Query4.png)
 
  5. List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
 
- insert Query5 image
+ ![Query5](EmployeeSQL/Query5.png)
 
  6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
 
-insert Query6 image
+![Query6](EmployeeSQL/Query6.png)
 
 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
-insert Query7 image
+![Query7](EmployeeSQL/Query7.png)
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
-insert Query8 image
+![Query8](EmployeeSQL/Query8.png)
 
 ## Submission
 
